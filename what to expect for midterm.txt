@@ -1,0 +1,48 @@
+What to expect on test on thurday
+
+-sorting - 20pts
+--three ways in book
+---comb
+---bubble
+---exchange
+--sort user defined data type
+
+-opening user defined data types
+
+-saving user defined data types
+
+-input info into user defined array
+--reading from file
+	how to break up a txt file(use do while loop)
+--randomly generate
+--user input(txtbox,inputbox)
+
+-output info from user defined data types
+
+-opening line by line
+
+-saving text whole
+
+-opening whole file
+
+-saving regular array
+
+-opening regular array
+
+-searching
+--linear search to find data
+
+-declare all things in all ways
+
+-tally of data between ranges
+
+-bar chart
+--vertical
+--horizontal
+--scale
+
+-moving labels
+
+total test is 100pts or 200pts
+test pertange of grade so far is 20%
+test pertange of grade at end is 10%

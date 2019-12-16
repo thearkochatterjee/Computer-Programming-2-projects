@@ -1,0 +1,20 @@
+E:\arko\Computer Programming 2 projects\lab 1 repair\lab 1 repair\bin\Debug\lab 1 repair.exe.config
+E:\arko\Computer Programming 2 projects\lab 1 repair\lab 1 repair\bin\Debug\lab 1 repair.exe
+E:\arko\Computer Programming 2 projects\lab 1 repair\lab 1 repair\bin\Debug\lab 1 repair.pdb
+E:\arko\Computer Programming 2 projects\lab 1 repair\lab 1 repair\bin\Debug\lab 1 repair.xml
+E:\arko\Computer Programming 2 projects\lab 1 repair\lab 1 repair\obj\Debug\lab_1_repair.Form1.resources
+E:\arko\Computer Programming 2 projects\lab 1 repair\lab 1 repair\obj\Debug\lab_1_repair.Resources.resources
+E:\arko\Computer Programming 2 projects\lab 1 repair\lab 1 repair\obj\Debug\lab 1 repair.vbproj.GenerateResource.Cache
+E:\arko\Computer Programming 2 projects\lab 1 repair\lab 1 repair\obj\Debug\lab 1 repair.exe
+E:\arko\Computer Programming 2 projects\lab 1 repair\lab 1 repair\obj\Debug\lab 1 repair.xml
+E:\arko\Computer Programming 2 projects\lab 1 repair\lab 1 repair\obj\Debug\lab 1 repair.pdb
+F:\arko\Computer Programming 2 projects\lab 1 repair\lab 1 repair\bin\Debug\lab 1 repair.exe.config
+F:\arko\Computer Programming 2 projects\lab 1 repair\lab 1 repair\obj\Debug\lab 1 repair.exe
+F:\arko\Computer Programming 2 projects\lab 1 repair\lab 1 repair\obj\Debug\lab 1 repair.xml
+F:\arko\Computer Programming 2 projects\lab 1 repair\lab 1 repair\obj\Debug\lab 1 repair.pdb
+F:\arko\Computer Programming 2 projects\lab 1 repair\lab 1 repair\bin\Debug\lab 1 repair.exe
+F:\arko\Computer Programming 2 projects\lab 1 repair\lab 1 repair\bin\Debug\lab 1 repair.pdb
+F:\arko\Computer Programming 2 projects\lab 1 repair\lab 1 repair\bin\Debug\lab 1 repair.xml
+F:\arko\Computer Programming 2 projects\lab 1 repair\lab 1 repair\obj\Debug\lab_1_repair.Form1.resources
+F:\arko\Computer Programming 2 projects\lab 1 repair\lab 1 repair\obj\Debug\lab_1_repair.Resources.resources
+F:\arko\Computer Programming 2 projects\lab 1 repair\lab 1 repair\obj\Debug\lab 1 repair.vbproj.GenerateResource.Cache

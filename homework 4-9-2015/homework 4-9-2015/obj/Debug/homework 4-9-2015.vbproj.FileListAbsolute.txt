@@ -1,0 +1,10 @@
+F:\arko\Computer Programming 2 projects\homework 4-9-2015\homework 4-9-2015\bin\Debug\homework 4-9-2015.exe.config
+F:\arko\Computer Programming 2 projects\homework 4-9-2015\homework 4-9-2015\bin\Debug\homework 4-9-2015.exe
+F:\arko\Computer Programming 2 projects\homework 4-9-2015\homework 4-9-2015\bin\Debug\homework 4-9-2015.pdb
+F:\arko\Computer Programming 2 projects\homework 4-9-2015\homework 4-9-2015\bin\Debug\homework 4-9-2015.xml
+F:\arko\Computer Programming 2 projects\homework 4-9-2015\homework 4-9-2015\obj\Debug\homework_4_9_2015.Form1.resources
+F:\arko\Computer Programming 2 projects\homework 4-9-2015\homework 4-9-2015\obj\Debug\homework_4_9_2015.Resources.resources
+F:\arko\Computer Programming 2 projects\homework 4-9-2015\homework 4-9-2015\obj\Debug\homework 4-9-2015.vbproj.GenerateResource.Cache
+F:\arko\Computer Programming 2 projects\homework 4-9-2015\homework 4-9-2015\obj\Debug\homework 4-9-2015.exe
+F:\arko\Computer Programming 2 projects\homework 4-9-2015\homework 4-9-2015\obj\Debug\homework 4-9-2015.xml
+F:\arko\Computer Programming 2 projects\homework 4-9-2015\homework 4-9-2015\obj\Debug\homework 4-9-2015.pdb

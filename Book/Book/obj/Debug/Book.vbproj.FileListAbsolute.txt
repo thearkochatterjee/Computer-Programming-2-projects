@@ -1,0 +1,24 @@
+E:\arko\Computer Programming 2 projects\Book\Book\bin\Debug\Book.exe.config
+F:\arko\Computer Programming 2 projects\Book\Book\bin\Debug\Book.exe.config
+E:\arko\Computer Programming 2 projects\Book\Book\bin\Debug\Book.exe
+E:\arko\Computer Programming 2 projects\Book\Book\bin\Debug\Book.pdb
+E:\arko\Computer Programming 2 projects\Book\Book\bin\Debug\Book.xml
+E:\arko\Computer Programming 2 projects\Book\Book\obj\Debug\Book.frmbook.resources
+E:\arko\Computer Programming 2 projects\Book\Book\obj\Debug\Book.Resources.resources
+E:\arko\Computer Programming 2 projects\Book\Book\obj\Debug\Book.vbproj.GenerateResource.Cache
+E:\arko\Computer Programming 2 projects\Book\Book\obj\Debug\Book.exe
+E:\arko\Computer Programming 2 projects\Book\Book\obj\Debug\Book.xml
+E:\arko\Computer Programming 2 projects\Book\Book\obj\Debug\Book.pdb
+F:\arko\Computer Programming 2 projects\Book\Book\obj\Debug\Book.exe
+F:\arko\Computer Programming 2 projects\Book\Book\obj\Debug\Book.xml
+F:\arko\Computer Programming 2 projects\Book\Book\obj\Debug\Book.pdb
+F:\arko\Computer Programming 2 projects\Book\Book\bin\Debug\Book.exe
+F:\arko\Computer Programming 2 projects\Book\Book\bin\Debug\Book.pdb
+F:\arko\Computer Programming 2 projects\Book\Book\bin\Debug\Book.xml
+F:\arko\Computer Programming 2 projects\Book\Book\obj\Debug\Book.frmbook.resources
+F:\arko\Computer Programming 2 projects\Book\Book\obj\Debug\Book.Resources.resources
+F:\arko\Computer Programming 2 projects\Book\Book\obj\Debug\Book.vbproj.GenerateResource.Cache
+I:\arko\9th grade\Computer Programming 2 projects\Book\Book\bin\Debug\Book.exe.config
+I:\arko\9th grade\Computer Programming 2 projects\Book\Book\obj\Debug\Book.exe
+I:\arko\9th grade\Computer Programming 2 projects\Book\Book\obj\Debug\Book.xml
+I:\arko\9th grade\Computer Programming 2 projects\Book\Book\obj\Debug\Book.pdb

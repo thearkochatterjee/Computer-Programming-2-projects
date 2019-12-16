@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "lab 1 repair", "lab 1 repair\lab 1 repair.vbproj", "{526D2029-F577-4CE2-BB14-AF0C462AFF7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{526D2029-F577-4CE2-BB14-AF0C462AFF7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{526D2029-F577-4CE2-BB14-AF0C462AFF7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{526D2029-F577-4CE2-BB14-AF0C462AFF7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{526D2029-F577-4CE2-BB14-AF0C462AFF7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

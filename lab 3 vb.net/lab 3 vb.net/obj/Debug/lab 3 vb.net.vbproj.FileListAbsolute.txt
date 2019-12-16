@@ -1,0 +1,11 @@
+E:\arko\Computer Programming 2 projects\lab 3 vb.net\lab 3 vb.net\bin\Debug\lab 3 vb.net.exe.config
+F:\arko\Computer Programming 2 projects\lab 3 vb.net\lab 3 vb.net\bin\Debug\lab 3 vb.net.exe.config
+F:\arko\Computer Programming 2 projects\lab 3 vb.net\lab 3 vb.net\bin\Debug\lab 3 vb.net.exe
+F:\arko\Computer Programming 2 projects\lab 3 vb.net\lab 3 vb.net\bin\Debug\lab 3 vb.net.pdb
+F:\arko\Computer Programming 2 projects\lab 3 vb.net\lab 3 vb.net\bin\Debug\lab 3 vb.net.xml
+F:\arko\Computer Programming 2 projects\lab 3 vb.net\lab 3 vb.net\obj\Debug\lab_3_vb.net.Resources.resources
+F:\arko\Computer Programming 2 projects\lab 3 vb.net\lab 3 vb.net\obj\Debug\lab 3 vb.net.vbproj.GenerateResource.Cache
+F:\arko\Computer Programming 2 projects\lab 3 vb.net\lab 3 vb.net\obj\Debug\lab 3 vb.net.exe
+F:\arko\Computer Programming 2 projects\lab 3 vb.net\lab 3 vb.net\obj\Debug\lab 3 vb.net.xml
+F:\arko\Computer Programming 2 projects\lab 3 vb.net\lab 3 vb.net\obj\Debug\lab 3 vb.net.pdb
+F:\arko\Computer Programming 2 projects\lab 3 vb.net\lab 3 vb.net\obj\Debug\lab_3_vb.net.frmlab3.resources

@@ -1,0 +1,24 @@
+Binary Search
+
+similar to high low game
+
+pos=0
+low=1
+high=numitems
+si=txtword
+do while low<=high
+md=int((low+high)/2)
+if si>arrwords(md) then
+low=md+1
+elseif si<arrwords(md) then
+high=mid-1
+else
+pos=md
+exit do
+end if
+loop
+if pos=0 then
+msgbox("Not found")
+else
+msgbox("located at "+str(pos)
+endif

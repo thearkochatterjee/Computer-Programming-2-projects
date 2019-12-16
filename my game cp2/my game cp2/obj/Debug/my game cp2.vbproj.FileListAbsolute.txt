@@ -1,0 +1,5 @@
+F:\arko\Computer Programming 2 projects\my game cp2\my game cp2\bin\Debug\my game cp2.exe.config
+F:\arko\Computer Programming 2 projects\my game cp2\my game cp2\obj\Debug\my_game_cp2.frmmenu.resources
+F:\arko\Computer Programming 2 projects\my game cp2\my game cp2\obj\Debug\my_game_cp2.Resources.resources
+F:\arko\Computer Programming 2 projects\my game cp2\my game cp2\obj\Debug\my_game_cp2.Single_player.resources
+F:\arko\Computer Programming 2 projects\my game cp2\my game cp2\obj\Debug\my game cp2.vbproj.GenerateResource.Cache
